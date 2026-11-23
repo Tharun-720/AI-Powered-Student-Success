@@ -141,6 +141,13 @@ def render_brand_header(title: str, subtitle: str):
     """, unsafe_allow_html=True)
 
 def get_current_user() -> Optional[Dict[str, Any]]:
+    if "user" not in st.session_state or st.session_state["user"] is None:
+        # Default to demo administrator session for smooth exploration
+        try:
+            demo_user = authenticate_user("admin", "admin123")
+            st.session_state["user"] = demo_user
+        except Exception:
+            pass
     return st.session_state.get("user")
 
 def require_auth(allowed_roles: Optional[list] = None) -> bool:

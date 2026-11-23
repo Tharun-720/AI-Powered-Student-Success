@@ -1,0 +1,180 @@
+{
+  "version": "v1.0.0-ensemble",
+  "training_date": "2026-11-23",
+  "dataset_samples": 296,
+  "test_holdout_samples": 60,
+  "feature_columns": [
+    "attendance",
+    "attendance_trend",
+    "previous_cgpa",
+    "internal_marks",
+    "assignment_marks",
+    "study_hours",
+    "backlogs",
+    "activity_score",
+    "attendance_deficit",
+    "assessment_avg",
+    "backlog_severity",
+    "engagement_index"
+  ],
+  "selected_regressor": "Gradient Boosting",
+  "selected_classifier": "Logistic Regression",
+  "regression_comparison": {
+    "Baseline (Mean)": {
+      "MAE": 2.233,
+      "RMSE": 2.833,
+      "R2": -0.0,
+      "CV_R2_Mean": -0.015,
+      "CV_R2_Std": 0.019
+    },
+    "Ridge Regression": {
+      "MAE": 0.334,
+      "RMSE": 0.424,
+      "R2": 0.978,
+      "CV_R2_Mean": 0.971,
+      "CV_R2_Std": 0.007
+    },
+    "Random Forest": {
+      "MAE": 0.331,
+      "RMSE": 0.414,
+      "R2": 0.979,
+      "CV_R2_Mean": 0.952,
+      "CV_R2_Std": 0.011
+    },
+    "Gradient Boosting": {
+      "MAE": 0.302,
+      "RMSE": 0.382,
+      "R2": 0.982,
+      "CV_R2_Mean": 0.954,
+      "CV_R2_Std": 0.008
+    }
+  },
+  "classification_comparison": {
+    "Baseline (Most Frequent)": {
+      "Accuracy": 0.667,
+      "Precision": 0.444,
+      "Recall": 0.667,
+      "F1_Weighted": 0.533,
+      "F1_Macro": 0.267,
+      "ROC_AUC": 0.5,
+      "CV_F1_Mean": 0.267,
+      "Confusion_Matrix": [
+        [
+          40,
+          0,
+          0
+        ],
+        [
+          5,
+          0,
+          0
+        ],
+        [
+          15,
+          0,
+          0
+        ]
+      ]
+    },
+    "Logistic Regression": {
+      "Accuracy": 0.967,
+      "Precision": 0.971,
+      "Recall": 0.967,
+      "F1_Weighted": 0.964,
+      "F1_Macro": 0.896,
+      "ROC_AUC": 0.995,
+      "CV_F1_Mean": 0.794,
+      "Confusion_Matrix": [
+        [
+          40,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          2
+        ],
+        [
+          0,
+          0,
+          15
+        ]
+      ]
+    },
+    "Random Forest": {
+      "Accuracy": 0.95,
+      "Precision": 0.948,
+      "Recall": 0.95,
+      "F1_Weighted": 0.948,
+      "F1_Macro": 0.857,
+      "ROC_AUC": 0.997,
+      "CV_F1_Mean": 0.813,
+      "Confusion_Matrix": [
+        [
+          40,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          2
+        ],
+        [
+          0,
+          1,
+          14
+        ]
+      ]
+    },
+    "Gradient Boosting": {
+      "Accuracy": 0.967,
+      "Precision": 0.971,
+      "Recall": 0.967,
+      "F1_Weighted": 0.964,
+      "F1_Macro": 0.896,
+      "ROC_AUC": 0.997,
+      "CV_F1_Mean": 0.763,
+      "Confusion_Matrix": [
+        [
+          40,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          2
+        ],
+        [
+          0,
+          0,
+          15
+        ]
+      ]
+    }
+  },
+  "feature_importances": {
+    "regressor": {
+      "attendance": 0.0032,
+      "attendance_trend": 0.0034,
+      "previous_cgpa": 0.0471,
+      "internal_marks": 0.0846,
+      "assignment_marks": 0.0012,
+      "study_hours": 0.0045,
+      "backlogs": 0.0045,
+      "activity_score": 0.0027,
+      "attendance_deficit": 0.0005,
+      "assessment_avg": 0.7979,
+      "backlog_severity": 0.0033,
+      "engagement_index": 0.0472
+    }
+  },
+  "label_mapping": {
+    "0": "Low Risk",
+    "1": "Moderate Risk",
+    "2": "High Risk"
+  },
+  "disclaimer": "Model outputs provide estimate support for early guidance; they must not replace qualified academic evaluation."
+}

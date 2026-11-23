@@ -1,0 +1,297 @@
+student_id,name,department,semester,attendance,attendance_trend,previous_cgpa,internal_marks,assignment_marks,study_hours,backlogs,activity_score,final_marks,risk_band
+STU1000,Aarav Sharma 1,Computer Science,4,71.7,-3.9,6.16,59.5,57.3,2.0,2,63.7,10.6,High Risk
+STU1001,Aditi Patel 1,Information Technology,7,86.7,1.7,7.25,66.1,90.9,3.8,0,79.4,14.5,Low Risk
+STU1002,Ananya Rao 1,Electronics,6,88.9,7.1,8.1,72.3,87.4,3.3,0,75.2,15.4,Low Risk
+STU1003,Arjun Reddy 1,Data Science,5,87.9,4.0,7.81,65.3,86.5,4.1,0,100.0,14.5,Low Risk
+STU1004,Bhavna Nair 1,Computer Science,3,88.9,-1.5,7.58,67.3,81.4,3.6,0,84.6,14.6,Low Risk
+STU1005,Chirag Gupta 1,Information Technology,3,86.2,4.9,7.71,69.9,89.4,4.7,0,84.9,14.5,Low Risk
+STU1006,Deepika Iyer 1,Electronics,3,89.9,4.7,7.65,69.0,92.2,3.4,0,79.7,14.9,Low Risk
+STU1007,Devansh Joshi 1,Data Science,6,83.0,-0.0,6.91,66.4,74.1,4.4,0,79.8,13.8,Low Risk
+STU1008,Divya Menon 1,Computer Science,5,71.3,-0.8,6.28,48.0,62.1,2.7,0,67.2,11.3,High Risk
+STU1009,Gaurav Verma 1,Information Technology,6,62.6,-2.6,4.89,35.0,44.7,2.0,2,31.3,7.5,High Risk
+STU1010,Ishaan Pillai 1,Electronics,3,86.2,-2.6,8.65,80.4,71.6,3.3,0,82.5,16.0,Low Risk
+STU1011,Kavya Deshmukh 1,Data Science,7,93.5,0.2,7.45,69.4,86.5,3.8,0,78.1,15.2,Low Risk
+STU1012,Kiran Kulkarni 1,Computer Science,6,78.5,-6.8,6.45,58.2,68.6,1.8,0,85.0,12.9,Moderate Risk
+STU1013,Manish Pandey 1,Information Technology,4,84.3,1.8,8.37,77.3,81.2,3.6,0,94.3,15.5,Low Risk
+STU1014,Meera Sen 1,Electronics,3,91.2,-4.3,7.96,72.3,85.8,4.3,0,93.3,15.0,Low Risk
+STU1015,Neha Nambiar 1,Data Science,3,91.3,0.3,8.06,77.0,79.0,2.8,0,70.0,15.2,Low Risk
+STU1016,Nikhil Bhat 1,Computer Science,4,89.6,-1.0,9.42,86.0,88.9,4.7,0,85.8,17.4,Low Risk
+STU1017,Pooja Hegde 1,Information Technology,5,62.7,2.0,5.52,41.0,46.2,1.3,2,54.3,8.3,High Risk
+STU1018,Pranav Varma 1,Electronics,5,74.8,-2.5,6.95,53.8,57.5,3.6,0,71.6,12.0,High Risk
+STU1019,Priya Das 1,Data Science,4,93.6,4.6,9.15,82.9,92.3,2.9,0,92.0,16.6,Low Risk
+STU1020,Rahul Saxena 1,Computer Science,5,91.6,-1.0,9.56,84.8,85.4,4.0,0,91.7,17.3,Low Risk
+STU1021,Riya Sen 1,Information Technology,3,78.0,1.8,8.38,85.0,75.6,4.5,0,88.8,16.3,Low Risk
+STU1022,Rohan Mehta 1,Electronics,4,85.5,1.0,8.58,74.9,89.5,4.0,0,85.8,16.3,Low Risk
+STU1023,Sanjay Kumar 1,Data Science,4,93.4,-2.9,9.9,92.7,88.4,3.4,0,76.9,18.1,Low Risk
+STU1024,Sneha Rao 1,Computer Science,5,93.6,-1.6,8.3,80.2,86.0,2.3,0,82.9,16.0,Low Risk
+STU1025,Siddharth Roy 1,Information Technology,6,88.8,4.0,8.25,71.9,84.0,4.5,0,99.8,15.2,Low Risk
+STU1026,Tanvi Kapoor 1,Electronics,3,88.2,-0.8,7.48,68.8,85.0,3.1,0,86.2,14.7,Low Risk
+STU1027,Varun Chauhan 1,Data Science,5,92.9,1.5,8.17,75.6,88.5,3.3,0,79.3,15.6,Low Risk
+STU1028,Vidya Krishnan 1,Computer Science,5,59.5,-3.5,6.4,35.0,38.0,0.8,2,50.0,8.4,High Risk
+STU1029,Yash Malhotra 1,Information Technology,3,72.9,2.3,6.71,58.2,55.0,3.8,0,76.4,11.7,High Risk
+STU1030,Aarav Sharma 2,Electronics,5,93.1,0.3,7.46,68.9,88.3,4.3,1,76.6,14.3,Moderate Risk
+STU1031,Aditi Patel 2,Data Science,3,88.4,2.7,8.82,78.3,83.1,5.0,0,76.4,16.6,Low Risk
+STU1032,Ananya Rao 2,Computer Science,3,92.5,4.5,8.03,68.9,95.3,2.6,1,78.5,14.8,Moderate Risk
+STU1033,Arjun Reddy 2,Information Technology,7,80.7,1.0,8.78,76.5,70.0,5.5,0,86.7,17.1,Low Risk
+STU1034,Bhavna Nair 2,Electronics,7,86.8,6.6,8.53,81.4,83.0,3.5,0,95.8,16.5,Low Risk
+STU1035,Chirag Gupta 2,Data Science,6,77.0,-3.8,6.43,51.9,63.6,2.7,1,63.1,10.9,High Risk
+STU1036,Deepika Iyer 2,Computer Science,4,90.5,5.3,7.57,75.6,89.3,3.3,0,89.2,15.4,Low Risk
+STU1037,Devansh Joshi 2,Information Technology,3,97.4,1.3,7.55,71.0,85.3,2.5,0,80.0,14.4,Low Risk
+STU1038,Divya Menon 2,Electronics,5,92.1,4.6,7.74,66.9,90.2,2.3,0,78.6,14.8,Low Risk
+STU1039,Gaurav Verma 2,Data Science,5,85.1,3.0,8.65,74.3,83.5,4.0,0,78.1,15.5,Low Risk
+STU1040,Ishaan Pillai 2,Computer Science,3,71.4,-1.0,6.87,50.7,63.6,2.1,1,70.2,11.7,High Risk
+STU1041,Kavya Deshmukh 2,Information Technology,5,87.8,3.6,9.63,88.5,86.9,3.2,0,90.1,17.4,Low Risk
+STU1042,Kiran Kulkarni 2,Electronics,3,92.6,3.2,7.15,65.0,87.4,4.9,0,86.0,14.6,Low Risk
+STU1043,Manish Pandey 2,Data Science,7,92.6,1.7,9.15,87.4,88.1,2.1,0,88.4,17.0,Low Risk
+STU1044,Meera Sen 2,Computer Science,4,90.9,0.0,7.36,69.0,85.9,4.9,0,84.4,15.8,Low Risk
+STU1045,Neha Nambiar 2,Information Technology,5,93.9,-1.0,7.27,68.4,90.4,3.3,0,95.0,14.7,Low Risk
+STU1046,Nikhil Bhat 2,Electronics,4,88.6,-2.2,7.94,71.1,88.9,4.7,0,87.3,16.3,Low Risk
+STU1047,Pooja Hegde 2,Data Science,5,92.4,0.3,8.75,80.6,86.1,5.2,0,100.0,17.2,Low Risk
+STU1048,Pranav Varma 2,Computer Science,5,87.3,-1.3,9.27,82.6,86.7,3.5,0,78.6,17.2,Low Risk
+STU1049,Priya Das 2,Information Technology,3,84.2,2.9,6.9,65.0,84.8,3.6,0,84.6,14.2,Low Risk
+STU1050,Rahul Saxena 2,Electronics,7,83.9,-0.1,8.52,81.9,87.0,2.2,0,85.6,16.4,Low Risk
+STU1051,Riya Sen 2,Data Science,6,86.5,2.4,8.64,77.6,88.5,3.2,0,78.3,15.3,Low Risk
+STU1052,Rohan Mehta 2,Computer Science,7,86.7,0.3,8.69,87.0,86.8,3.0,0,86.3,16.7,Low Risk
+STU1053,Sanjay Kumar 2,Information Technology,6,92.4,-0.6,8.63,82.7,87.5,3.0,0,74.0,17.1,Low Risk
+STU1054,Sneha Rao 2,Electronics,5,89.3,4.2,9.51,89.5,81.2,1.5,0,78.0,17.3,Low Risk
+STU1055,Siddharth Roy 2,Data Science,7,75.5,1.8,7.59,59.3,65.1,2.1,1,73.3,12.0,Moderate Risk
+STU1056,Tanvi Kapoor 2,Computer Science,3,93.6,0.3,8.61,82.2,95.4,3.2,0,88.8,16.8,Low Risk
+STU1057,Varun Chauhan 2,Information Technology,3,85.3,1.3,7.77,72.9,81.9,5.1,0,86.5,16.1,Low Risk
+STU1058,Vidya Krishnan 2,Electronics,3,82.7,2.5,8.77,85.2,80.3,4.1,0,81.8,17.2,Low Risk
+STU1059,Yash Malhotra 2,Data Science,4,89.7,-1.4,9.1,79.4,84.0,4.0,0,93.6,16.7,Low Risk
+STU1060,Aarav Sharma 3,Computer Science,4,90.2,0.9,7.76,70.0,86.7,4.2,0,80.8,15.6,Low Risk
+STU1061,Aditi Patel 3,Information Technology,4,79.3,-0.1,8.76,83.9,70.6,1.6,0,88.5,15.8,Low Risk
+STU1062,Ananya Rao 3,Electronics,6,54.9,-4.9,5.9,46.8,45.8,1.4,1,36.5,8.7,High Risk
+STU1063,Arjun Reddy 3,Data Science,4,92.7,2.1,7.39,73.0,88.2,4.0,0,83.1,14.9,Low Risk
+STU1064,Bhavna Nair 3,Computer Science,4,83.2,3.0,9.26,86.7,79.8,4.1,0,83.2,17.8,Low Risk
+STU1065,Chirag Gupta 3,Information Technology,5,93.1,4.8,8.57,80.7,89.6,4.5,0,84.3,16.6,Low Risk
+STU1066,Deepika Iyer 3,Electronics,3,86.1,-0.4,9.51,85.3,82.4,2.2,0,89.5,17.0,Low Risk
+STU1067,Devansh Joshi 3,Data Science,6,94.5,3.1,8.06,74.0,88.2,1.5,0,72.3,15.4,Low Risk
+STU1068,Divya Menon 3,Computer Science,3,65.7,2.0,5.7,39.5,43.1,1.3,3,44.0,8.7,High Risk
+STU1069,Gaurav Verma 3,Information Technology,7,89.4,-0.5,8.62,84.6,86.3,1.8,1,83.0,16.7,Moderate Risk
+STU1070,Ishaan Pillai 3,Electronics,6,55.0,-3.5,5.2,40.6,41.7,1.2,2,43.6,8.8,High Risk
+STU1071,Kavya Deshmukh 3,Data Science,3,70.4,-3.1,7.8,67.1,62.3,2.9,2,77.4,12.5,High Risk
+STU1072,Kiran Kulkarni 3,Computer Science,3,96.1,-1.4,8.39,78.4,100.0,3.4,0,86.6,16.7,Low Risk
+STU1073,Manish Pandey 3,Information Technology,6,86.9,1.5,8.68,83.3,90.1,4.2,0,85.3,16.1,Low Risk
+STU1074,Meera Sen 3,Electronics,6,92.6,-3.5,7.53,72.6,87.9,4.7,0,92.0,16.1,Low Risk
+STU1075,Neha Nambiar 3,Data Science,6,85.0,3.4,7.16,71.8,85.8,3.8,0,83.6,14.2,Low Risk
+STU1076,Nikhil Bhat 3,Computer Science,6,92.8,2.2,7.15,67.3,83.5,5.2,0,91.2,14.9,Low Risk
+STU1077,Pooja Hegde 3,Information Technology,3,86.1,-5.0,8.48,77.1,84.6,3.4,0,91.2,15.5,Low Risk
+STU1078,Pranav Varma 3,Electronics,4,95.2,4.0,7.03,65.8,90.4,4.6,0,75.0,14.5,Low Risk
+STU1079,Priya Das 3,Data Science,3,86.0,-0.0,7.16,65.1,82.7,2.5,0,93.0,13.7,Low Risk
+STU1080,Rahul Saxena 3,Computer Science,6,67.0,2.1,6.54,51.2,57.5,3.1,1,79.0,10.7,High Risk
+STU1081,Riya Sen 3,Information Technology,5,89.1,1.1,8.5,82.1,84.1,3.6,0,84.4,16.2,Low Risk
+STU1082,Rohan Mehta 3,Electronics,4,77.3,-3.3,6.83,56.6,58.5,2.2,0,72.0,12.2,Moderate Risk
+STU1083,Sanjay Kumar 3,Data Science,3,89.5,0.9,8.35,78.2,89.6,1.5,0,100.0,16.3,Low Risk
+STU1084,Sneha Rao 3,Computer Science,4,95.0,2.6,7.52,70.0,87.9,4.9,0,83.7,14.8,Low Risk
+STU1085,Siddharth Roy 3,Information Technology,4,84.9,4.2,8.23,81.7,82.2,4.9,0,93.8,16.4,Low Risk
+STU1086,Tanvi Kapoor 3,Electronics,6,92.7,2.1,7.45,66.2,89.6,4.8,0,83.0,15.5,Low Risk
+STU1087,Varun Chauhan 3,Data Science,5,80.5,0.6,7.14,61.2,72.3,1.4,1,73.4,12.4,Moderate Risk
+STU1088,Vidya Krishnan 3,Computer Science,6,72.7,-4.2,7.63,64.6,55.0,1.4,1,53.2,12.3,High Risk
+STU1089,Yash Malhotra 3,Information Technology,5,81.0,5.0,5.87,48.0,75.0,3.2,0,61.8,11.6,Moderate Risk
+STU1090,Aarav Sharma 4,Electronics,3,94.4,4.8,8.02,72.4,89.9,2.6,0,72.7,16.1,Low Risk
+STU1091,Aditi Patel 4,Data Science,6,80.4,1.9,9.88,93.1,79.7,4.7,0,91.1,18.1,Low Risk
+STU1092,Ananya Rao 4,Computer Science,6,74.5,-4.1,6.76,55.8,64.1,2.4,0,59.4,12.1,High Risk
+STU1093,Arjun Reddy 4,Information Technology,5,69.6,1.3,7.38,59.5,61.7,1.1,1,59.1,12.3,High Risk
+STU1094,Bhavna Nair 4,Electronics,6,55.1,-3.9,5.24,35.0,41.4,2.6,1,50.2,7.7,High Risk
+STU1095,Chirag Gupta 4,Data Science,5,84.8,2.6,9.23,84.7,81.8,3.4,0,86.0,17.2,Low Risk
+STU1096,Deepika Iyer 4,Computer Science,5,89.7,0.5,8.28,77.7,80.6,4.9,0,82.6,16.3,Low Risk
+STU1097,Devansh Joshi 4,Information Technology,5,77.4,-0.7,7.25,58.0,62.3,3.4,0,61.9,12.9,Moderate Risk
+STU1098,Divya Menon 4,Electronics,3,85.3,4.3,9.75,91.3,78.9,3.4,0,88.6,17.4,Low Risk
+STU1099,Gaurav Verma 4,Data Science,3,70.7,1.2,4.32,35.0,50.1,3.0,2,40.0,7.3,High Risk
+STU1100,Ishaan Pillai 4,Computer Science,3,81.0,-4.8,6.47,55.1,64.2,1.1,1,73.1,11.8,High Risk
+STU1101,Kavya Deshmukh 4,Information Technology,5,85.9,3.3,7.84,71.5,83.3,2.2,0,87.6,15.5,Low Risk
+STU1102,Kiran Kulkarni 4,Electronics,4,65.0,-1.2,7.02,61.6,63.0,2.2,0,83.5,12.4,High Risk
+STU1103,Manish Pandey 4,Data Science,5,70.9,2.2,6.21,54.1,57.7,1.7,1,61.4,11.2,High Risk
+STU1104,Meera Sen 4,Computer Science,7,95.0,1.4,8.68,78.2,84.8,3.9,0,91.2,15.6,Low Risk
+STU1105,Neha Nambiar 4,Information Technology,4,79.5,1.4,6.35,53.8,66.3,2.3,1,74.4,11.3,High Risk
+STU1106,Nikhil Bhat 4,Electronics,5,85.6,6.6,7.32,67.6,84.8,3.0,0,72.2,14.4,Low Risk
+STU1107,Pooja Hegde 4,Data Science,6,68.9,-2.4,7.3,61.4,57.0,2.3,1,76.3,11.8,High Risk
+STU1108,Pranav Varma 4,Computer Science,4,90.8,-1.4,8.48,76.5,85.8,2.6,0,82.2,15.6,Low Risk
+STU1109,Priya Das 4,Information Technology,3,79.9,0.2,6.83,57.8,65.8,3.1,1,80.5,12.0,High Risk
+STU1110,Rahul Saxena 4,Electronics,4,89.6,-3.3,7.33,66.3,81.6,4.3,0,85.4,14.7,Low Risk
+STU1111,Riya Sen 4,Data Science,3,86.3,4.2,6.8,65.0,77.8,4.4,0,97.2,13.9,Low Risk
+STU1112,Rohan Mehta 4,Computer Science,7,73.0,-0.6,7.69,62.5,58.0,2.1,0,61.6,12.3,Moderate Risk
+STU1113,Sanjay Kumar 4,Information Technology,6,86.4,-2.5,8.26,73.8,84.5,5.0,0,92.6,14.8,Low Risk
+STU1114,Sneha Rao 4,Electronics,5,78.0,4.2,8.9,81.5,79.2,3.3,0,75.6,15.9,Low Risk
+STU1115,Siddharth Roy 4,Data Science,6,59.1,-3.1,6.02,45.9,38.0,0.5,1,42.5,9.5,High Risk
+STU1116,Tanvi Kapoor 4,Computer Science,6,52.1,-8.7,5.53,35.0,38.0,0.5,1,65.0,6.8,High Risk
+STU1117,Varun Chauhan 4,Information Technology,3,89.3,0.7,9.07,80.8,79.9,2.2,0,96.8,16.3,Low Risk
+STU1118,Vidya Krishnan 4,Electronics,6,86.2,4.7,8.98,77.8,80.9,3.7,0,92.4,16.1,Low Risk
+STU1119,Yash Malhotra 4,Data Science,5,95.6,-0.5,8.44,80.1,91.1,3.0,0,88.7,17.2,Low Risk
+STU1120,Aarav Sharma 5,Computer Science,6,99.5,-1.3,8.35,77.5,92.7,3.0,1,95.4,15.7,Moderate Risk
+STU1121,Aditi Patel 5,Information Technology,6,82.9,-0.7,8.73,83.8,84.3,4.5,0,93.0,16.8,Low Risk
+STU1122,Ananya Rao 5,Electronics,4,82.4,-0.3,9.3,86.4,75.4,4.4,0,94.8,17.1,Low Risk
+STU1123,Arjun Reddy 5,Data Science,3,74.2,-4.0,7.67,71.7,63.7,3.3,1,64.7,12.7,Moderate Risk
+STU1124,Bhavna Nair 5,Computer Science,4,69.3,-0.9,5.62,48.8,57.6,2.0,1,65.0,10.5,High Risk
+STU1125,Chirag Gupta 5,Information Technology,5,73.3,3.3,6.0,53.4,59.4,2.6,1,65.8,11.1,High Risk
+STU1126,Deepika Iyer 5,Electronics,6,92.0,1.0,8.76,77.5,89.8,4.1,0,85.2,16.8,Low Risk
+STU1127,Devansh Joshi 5,Data Science,6,89.1,5.5,8.82,82.9,90.1,3.8,0,87.5,18.6,Low Risk
+STU1128,Divya Menon 5,Computer Science,3,90.7,-0.4,9.9,96.5,89.1,4.1,0,92.2,17.7,Low Risk
+STU1129,Gaurav Verma 5,Information Technology,5,91.9,2.7,8.07,74.2,86.9,2.9,0,80.4,16.4,Low Risk
+STU1130,Ishaan Pillai 5,Electronics,5,97.8,-2.4,8.53,76.9,88.6,4.1,0,96.6,16.4,Low Risk
+STU1131,Kavya Deshmukh 5,Data Science,4,69.0,1.3,6.53,51.2,65.3,2.1,2,70.0,10.6,High Risk
+STU1132,Kiran Kulkarni 5,Computer Science,3,82.4,6.7,7.02,68.1,76.9,4.0,0,78.3,14.1,Low Risk
+STU1133,Manish Pandey 5,Information Technology,4,88.0,2.7,8.34,74.7,92.5,5.0,0,93.2,15.9,Low Risk
+STU1134,Meera Sen 5,Electronics,7,93.4,-5.0,7.86,75.7,86.5,4.7,0,90.5,15.6,Low Risk
+STU1135,Neha Nambiar 5,Data Science,4,77.6,0.4,6.54,51.0,63.6,2.3,1,81.6,11.5,High Risk
+STU1136,Nikhil Bhat 5,Computer Science,5,84.4,4.2,9.55,86.8,82.0,4.9,0,82.6,16.8,Low Risk
+STU1137,Pooja Hegde 5,Information Technology,6,79.8,0.8,7.37,68.9,77.4,2.0,0,87.6,14.5,Moderate Risk
+STU1138,Pranav Varma 5,Electronics,4,87.2,-1.6,7.13,65.0,85.1,3.6,0,96.1,14.1,Low Risk
+STU1139,Priya Das 5,Data Science,7,89.2,2.4,8.39,76.1,92.0,3.3,0,80.2,15.6,Low Risk
+STU1140,Rahul Saxena 5,Computer Science,7,84.5,2.1,8.46,78.9,81.5,2.8,0,77.9,15.7,Low Risk
+STU1141,Riya Sen 5,Information Technology,4,73.0,-3.7,6.3,48.7,67.5,2.2,1,67.8,11.5,High Risk
+STU1142,Rohan Mehta 5,Electronics,5,78.0,0.9,8.87,82.3,75.5,4.5,0,85.8,16.1,Low Risk
+STU1143,Sanjay Kumar 5,Data Science,4,86.5,-2.2,8.87,78.8,86.0,2.5,0,87.3,16.4,Low Risk
+STU1144,Sneha Rao 5,Computer Science,4,91.8,2.8,8.23,73.2,86.4,3.4,0,80.7,15.4,Low Risk
+STU1145,Siddharth Roy 5,Information Technology,3,58.3,-5.8,6.11,56.2,43.2,1.9,1,49.8,10.8,High Risk
+STU1146,Tanvi Kapoor 5,Electronics,5,85.4,5.6,8.31,72.7,81.6,3.4,0,100.0,15.7,Low Risk
+STU1147,Varun Chauhan 5,Data Science,5,84.3,-0.8,7.75,71.5,80.2,5.2,0,79.8,16.0,Low Risk
+STU1148,Vidya Krishnan 5,Computer Science,3,71.8,-0.5,6.23,48.0,59.5,2.1,1,72.6,10.6,High Risk
+STU1149,Yash Malhotra 5,Information Technology,4,60.8,-7.1,5.36,35.0,41.6,3.0,4,51.0,7.0,High Risk
+STU1150,Aarav Sharma 6,Electronics,7,58.4,-0.3,6.2,35.0,42.0,1.7,3,61.7,7.7,High Risk
+STU1151,Aditi Patel 6,Data Science,4,76.4,1.6,7.26,60.1,65.4,1.7,1,62.2,13.0,High Risk
+STU1152,Ananya Rao 6,Computer Science,3,87.8,-0.6,7.97,74.2,87.1,3.6,0,75.7,15.2,Low Risk
+STU1153,Arjun Reddy 6,Information Technology,5,90.5,2.3,8.38,77.9,86.1,4.3,0,76.5,16.6,Low Risk
+STU1154,Bhavna Nair 6,Electronics,7,73.2,-3.9,7.39,62.2,58.8,3.8,0,70.0,13.2,High Risk
+STU1155,Chirag Gupta 6,Data Science,4,92.5,0.9,8.44,78.6,84.2,4.9,0,95.5,16.4,Low Risk
+STU1156,Deepika Iyer 6,Computer Science,5,78.9,-0.2,7.82,70.5,80.0,4.3,0,78.3,14.9,Low Risk
+STU1157,Devansh Joshi 6,Information Technology,6,72.2,-2.8,6.4,48.0,65.4,3.6,1,77.0,11.2,High Risk
+STU1158,Divya Menon 6,Electronics,4,91.5,0.2,8.23,76.9,84.2,5.0,0,76.0,16.1,Low Risk
+STU1159,Gaurav Verma 6,Data Science,6,92.1,-0.5,7.89,75.0,88.4,5.7,0,77.0,16.1,Low Risk
+STU1160,Ishaan Pillai 6,Computer Science,4,92.1,1.9,8.38,79.2,90.5,2.6,0,91.7,17.0,Low Risk
+STU1161,Kavya Deshmukh 6,Information Technology,5,92.8,3.3,7.57,70.1,92.9,3.7,0,67.6,15.7,Low Risk
+STU1162,Kiran Kulkarni 6,Electronics,5,86.8,1.7,8.19,74.7,84.8,3.4,0,91.0,16.0,Low Risk
+STU1163,Manish Pandey 6,Data Science,5,91.1,0.3,8.87,80.0,88.4,5.6,0,83.2,16.7,Low Risk
+STU1164,Meera Sen 6,Computer Science,3,89.4,2.3,8.04,69.1,88.6,4.9,0,78.1,15.0,Low Risk
+STU1165,Neha Nambiar 6,Information Technology,6,94.0,4.1,8.88,82.4,89.2,3.6,0,85.6,17.4,Low Risk
+STU1166,Nikhil Bhat 6,Electronics,4,69.8,-6.9,6.94,59.2,60.6,2.9,0,85.0,13.0,High Risk
+STU1167,Pooja Hegde 6,Data Science,3,86.1,4.5,9.28,84.3,81.9,4.8,0,97.9,17.8,Low Risk
+STU1168,Pranav Varma 6,Computer Science,3,70.8,-3.0,5.92,36.5,50.9,1.3,1,24.0,9.0,High Risk
+STU1169,Priya Das 6,Information Technology,5,90.2,-2.1,9.29,87.3,83.7,4.0,0,79.1,17.3,Low Risk
+STU1170,Rahul Saxena 6,Electronics,5,86.4,-1.0,8.22,75.0,74.5,4.3,0,75.1,14.8,Low Risk
+STU1171,Riya Sen 6,Data Science,3,71.0,2.5,6.68,55.8,56.8,1.8,0,70.9,11.8,High Risk
+STU1172,Rohan Mehta 6,Computer Science,5,80.1,1.5,8.33,74.3,76.3,2.9,0,87.1,15.7,Low Risk
+STU1173,Sanjay Kumar 6,Information Technology,4,48.0,-10.0,5.39,42.5,38.0,0.6,3,30.0,6.9,High Risk
+STU1174,Sneha Rao 6,Electronics,5,90.8,-0.6,8.61,81.9,84.6,3.9,0,80.1,16.9,Low Risk
+STU1175,Siddharth Roy 6,Data Science,3,63.1,-4.2,4.82,35.0,43.2,0.9,2,46.7,7.3,High Risk
+STU1176,Tanvi Kapoor 6,Computer Science,5,88.4,1.7,7.79,75.4,89.2,5.0,0,71.1,15.9,Low Risk
+STU1177,Varun Chauhan 6,Information Technology,4,77.4,-2.1,7.03,61.4,58.1,2.5,0,67.7,12.4,Moderate Risk
+STU1178,Vidya Krishnan 6,Electronics,7,88.9,2.4,6.93,65.0,87.9,4.7,0,95.3,14.4,Low Risk
+STU1179,Yash Malhotra 6,Data Science,3,66.1,-5.4,6.4,41.5,52.9,1.1,1,61.9,8.5,High Risk
+STU1180,Aarav Sharma 7,Computer Science,4,90.9,5.2,8.43,72.1,84.1,2.0,0,94.4,15.4,Low Risk
+STU1181,Aditi Patel 7,Information Technology,3,93.4,3.1,7.56,74.0,84.6,3.6,0,82.5,14.7,Low Risk
+STU1182,Ananya Rao 7,Electronics,7,68.9,-10.2,6.38,44.3,44.8,2.2,2,36.2,10.0,High Risk
+STU1183,Arjun Reddy 7,Data Science,6,95.9,1.2,9.57,86.7,89.4,3.8,0,89.4,18.2,Low Risk
+STU1184,Bhavna Nair 7,Computer Science,4,87.3,1.0,8.17,71.9,82.1,2.0,1,82.2,14.8,Moderate Risk
+STU1185,Chirag Gupta 7,Information Technology,5,90.6,-1.6,8.42,80.2,86.2,4.2,0,72.4,17.1,Low Risk
+STU1186,Deepika Iyer 7,Electronics,6,83.5,-1.5,8.35,81.5,81.2,3.6,0,94.8,15.7,Low Risk
+STU1187,Devansh Joshi 7,Data Science,5,85.1,1.8,7.37,65.2,73.7,4.5,0,76.4,15.0,Low Risk
+STU1188,Divya Menon 7,Computer Science,5,99.5,0.1,7.61,70.9,98.1,5.8,0,94.0,16.3,Low Risk
+STU1189,Gaurav Verma 7,Information Technology,4,68.3,-1.2,6.78,54.4,57.3,2.8,1,77.8,11.3,High Risk
+STU1190,Ishaan Pillai 7,Electronics,3,91.0,1.2,7.98,71.4,90.4,3.7,0,75.6,16.0,Low Risk
+STU1191,Kavya Deshmukh 7,Data Science,6,91.5,4.6,8.43,80.7,83.7,3.1,0,80.2,15.8,Low Risk
+STU1192,Kiran Kulkarni 7,Computer Science,7,48.2,-0.4,6.4,51.2,38.0,1.7,2,62.9,8.8,High Risk
+STU1193,Manish Pandey 7,Information Technology,5,73.1,-2.7,6.72,60.1,63.4,2.6,1,67.8,11.8,High Risk
+STU1194,Meera Sen 7,Electronics,4,95.1,-1.0,8.91,80.8,87.6,4.9,0,80.7,16.8,Low Risk
+STU1195,Neha Nambiar 7,Data Science,4,86.1,2.3,7.88,75.0,85.4,4.3,1,79.9,14.5,Moderate Risk
+STU1196,Nikhil Bhat 7,Computer Science,6,93.5,-0.9,8.78,82.5,91.0,3.0,0,86.7,17.4,Low Risk
+STU1197,Pooja Hegde 7,Information Technology,6,89.4,1.7,7.1,65.0,82.3,3.5,0,69.9,14.1,Low Risk
+STU1198,Pranav Varma 7,Electronics,6,89.5,-1.3,7.68,70.1,85.9,3.6,0,79.3,15.2,Low Risk
+STU1199,Priya Das 7,Data Science,6,85.7,-3.8,8.86,79.6,85.4,3.6,0,82.9,16.2,Low Risk
+STU1200,Rahul Saxena 7,Computer Science,5,92.7,1.2,7.38,65.0,93.2,2.9,0,87.7,13.9,Low Risk
+STU1201,Riya Sen 7,Information Technology,3,94.5,-1.2,9.78,86.1,90.9,3.3,0,91.5,18.0,Low Risk
+STU1202,Rohan Mehta 7,Electronics,3,63.9,-10.9,5.75,35.0,45.5,1.1,2,56.9,7.3,High Risk
+STU1203,Sanjay Kumar 7,Data Science,6,60.8,-4.5,5.63,35.0,38.0,2.2,1,48.0,8.5,High Risk
+STU1204,Sneha Rao 7,Computer Science,5,87.9,3.0,8.36,74.3,88.6,3.5,0,78.8,15.2,Low Risk
+STU1205,Siddharth Roy 7,Information Technology,3,87.1,0.9,8.97,80.5,86.8,3.7,0,88.1,17.5,Low Risk
+STU1206,Tanvi Kapoor 7,Electronics,3,90.8,1.7,7.84,76.9,81.4,4.3,0,78.5,16.1,Low Risk
+STU1207,Varun Chauhan 7,Data Science,5,74.3,-2.9,6.17,55.5,64.2,3.4,0,66.7,12.1,High Risk
+STU1208,Vidya Krishnan 7,Computer Science,3,89.5,4.3,8.67,75.4,84.7,2.4,0,73.7,16.5,Low Risk
+STU1209,Yash Malhotra 7,Information Technology,3,87.9,-1.5,7.97,74.8,88.3,3.7,0,90.4,15.3,Low Risk
+STU1210,Aarav Sharma 8,Electronics,5,67.0,3.1,7.29,66.3,59.0,3.3,0,55.7,13.5,Moderate Risk
+STU1211,Aditi Patel 8,Data Science,5,70.6,-4.5,6.92,57.3,55.3,2.3,0,68.4,12.4,High Risk
+STU1212,Ananya Rao 8,Computer Science,5,65.4,-1.8,5.04,35.0,39.6,1.4,1,21.6,8.3,High Risk
+STU1213,Arjun Reddy 8,Information Technology,4,65.0,1.8,6.75,56.5,55.0,2.8,1,57.4,12.0,High Risk
+STU1214,Bhavna Nair 8,Electronics,6,93.1,-4.2,8.75,79.8,89.5,4.8,0,79.1,17.1,Low Risk
+STU1215,Chirag Gupta 8,Data Science,4,90.8,4.9,8.94,78.2,87.4,4.0,0,83.2,16.7,Low Risk
+STU1216,Deepika Iyer 8,Computer Science,4,51.4,-6.9,4.82,35.0,38.0,2.5,1,46.9,7.0,High Risk
+STU1217,Devansh Joshi 8,Information Technology,6,73.8,-2.5,7.12,59.9,55.0,1.9,0,64.6,12.2,High Risk
+STU1218,Divya Menon 8,Electronics,5,95.9,-1.7,8.64,80.5,89.8,2.5,0,97.6,16.6,Low Risk
+STU1219,Gaurav Verma 8,Data Science,6,93.7,1.6,8.7,79.3,93.3,3.7,0,82.4,16.8,Low Risk
+STU1220,Ishaan Pillai 8,Computer Science,5,85.3,-0.1,9.71,89.5,84.1,3.8,0,72.0,17.2,Low Risk
+STU1221,Kavya Deshmukh 8,Information Technology,5,75.0,-2.3,7.3,58.8,55.0,3.6,1,55.2,13.4,High Risk
+STU1222,Kiran Kulkarni 8,Electronics,3,58.4,-7.0,5.81,40.7,42.7,1.2,4,31.8,7.8,High Risk
+STU1223,Manish Pandey 8,Data Science,4,90.3,2.4,8.36,77.1,88.0,3.8,0,79.9,16.4,Low Risk
+STU1224,Meera Sen 8,Computer Science,4,98.5,1.2,8.12,78.8,98.4,4.0,0,75.4,16.6,Low Risk
+STU1225,Neha Nambiar 8,Information Technology,4,97.3,0.1,8.68,79.3,87.6,4.4,0,92.1,16.7,Low Risk
+STU1226,Nikhil Bhat 8,Electronics,7,58.2,-7.2,5.59,38.6,38.0,1.0,2,51.4,7.5,High Risk
+STU1227,Pooja Hegde 8,Data Science,4,67.0,0.9,5.99,48.0,55.0,3.2,1,61.8,10.4,High Risk
+STU1228,Pranav Varma 8,Computer Science,6,65.1,-0.9,7.34,58.7,55.0,1.2,1,68.3,11.9,High Risk
+STU1229,Priya Das 8,Information Technology,5,88.6,-2.1,7.17,71.9,91.2,3.9,0,77.8,14.5,Low Risk
+STU1230,Rahul Saxena 8,Electronics,6,88.6,-0.2,8.9,80.8,70.8,4.2,0,74.4,16.6,Low Risk
+STU1231,Riya Sen 8,Data Science,5,84.4,2.2,7.99,74.9,70.5,4.0,0,88.5,15.2,Low Risk
+STU1232,Rohan Mehta 8,Computer Science,5,95.7,-0.2,7.5,66.1,92.8,3.9,0,93.4,14.2,Low Risk
+STU1233,Sanjay Kumar 8,Information Technology,5,66.5,-4.9,7.21,50.3,55.0,1.5,0,74.1,11.3,High Risk
+STU1234,Sneha Rao 8,Electronics,3,77.0,-2.9,7.08,55.0,57.5,3.1,1,73.2,11.8,High Risk
+STU1235,Siddharth Roy 8,Data Science,6,54.2,-2.7,6.4,36.6,38.0,1.0,2,39.7,9.0,High Risk
+STU1236,Tanvi Kapoor 8,Computer Science,4,63.5,-4.4,6.38,37.1,49.6,2.1,4,56.0,7.9,High Risk
+STU1237,Varun Chauhan 8,Information Technology,3,84.7,5.7,6.8,65.0,83.4,4.7,0,82.4,13.5,Low Risk
+STU1238,Vidya Krishnan 8,Electronics,5,75.0,-5.4,7.1,57.8,65.2,2.0,1,72.9,12.3,High Risk
+STU1239,Yash Malhotra 8,Data Science,3,53.7,-5.9,6.14,47.8,38.0,1.9,2,37.1,8.3,High Risk
+STU1240,Aarav Sharma 9,Computer Science,7,77.1,-0.9,7.31,61.1,65.8,3.0,0,59.0,13.8,Moderate Risk
+STU1241,Aditi Patel 9,Information Technology,7,96.1,3.9,9.52,87.7,93.5,3.3,0,67.8,17.7,Low Risk
+STU1242,Ananya Rao 9,Electronics,7,87.1,4.0,7.65,71.5,86.6,3.2,0,91.2,15.0,Low Risk
+STU1243,Arjun Reddy 9,Data Science,4,99.2,4.0,8.3,74.4,90.1,2.4,0,72.8,16.6,Low Risk
+STU1244,Bhavna Nair 9,Computer Science,3,57.2,-6.0,6.4,41.7,45.4,2.6,1,41.4,9.0,High Risk
+STU1245,Chirag Gupta 9,Information Technology,7,88.7,-2.1,8.63,78.9,89.3,5.2,0,82.1,16.0,Low Risk
+STU1246,Deepika Iyer 9,Electronics,5,87.4,5.0,8.43,76.1,77.0,2.5,0,85.6,15.4,Low Risk
+STU1247,Devansh Joshi 9,Data Science,7,86.4,-2.4,7.8,76.9,76.8,3.1,0,84.3,15.8,Low Risk
+STU1248,Divya Menon 9,Computer Science,7,84.9,1.7,7.55,69.7,83.0,3.7,0,86.5,14.1,Low Risk
+STU1249,Gaurav Verma 9,Information Technology,6,85.4,5.0,9.3,89.3,85.1,2.7,0,91.6,16.1,Low Risk
+STU1250,Ishaan Pillai 9,Electronics,4,83.9,-1.0,7.61,69.3,81.6,5.5,0,90.8,14.7,Low Risk
+STU1251,Kavya Deshmukh 9,Data Science,4,98.0,0.4,8.28,75.4,95.5,3.7,0,94.0,16.6,Low Risk
+STU1252,Kiran Kulkarni 9,Computer Science,6,92.3,-2.8,7.54,66.7,87.5,4.1,0,86.5,15.4,Low Risk
+STU1253,Manish Pandey 9,Information Technology,4,72.0,0.6,7.8,63.7,68.0,3.5,0,56.4,13.6,Moderate Risk
+STU1254,Meera Sen 9,Electronics,3,87.0,5.5,8.43,78.7,85.6,3.1,0,78.0,15.9,Low Risk
+STU1255,Neha Nambiar 9,Data Science,5,72.6,0.7,7.77,69.4,62.2,2.8,0,68.7,14.5,Moderate Risk
+STU1256,Nikhil Bhat 9,Computer Science,7,91.9,1.6,7.38,68.4,94.6,3.6,0,80.0,14.2,Low Risk
+STU1257,Pooja Hegde 9,Information Technology,5,93.3,4.8,7.05,65.7,90.2,4.5,0,83.2,14.5,Low Risk
+STU1258,Pranav Varma 9,Electronics,5,68.0,-2.9,7.22,54.0,55.0,2.8,1,69.7,11.7,High Risk
+STU1259,Priya Das 9,Data Science,3,80.6,3.2,7.77,71.5,75.6,5.2,0,74.9,15.2,Low Risk
+STU1260,Rahul Saxena 9,Computer Science,5,88.1,-0.5,8.05,75.7,80.1,3.9,0,86.3,15.4,Low Risk
+STU1261,Riya Sen 9,Information Technology,7,91.1,-2.1,7.54,66.1,98.8,5.0,0,74.2,15.2,Low Risk
+STU1262,Rohan Mehta 9,Electronics,3,76.2,1.7,7.13,55.1,55.9,3.0,0,68.1,11.4,Moderate Risk
+STU1263,Sanjay Kumar 9,Data Science,5,78.8,2.7,7.27,66.9,79.6,4.3,0,88.4,13.9,Moderate Risk
+STU1264,Sneha Rao 9,Computer Science,6,99.5,1.5,7.46,65.7,96.7,2.8,0,91.0,15.2,Low Risk
+STU1265,Siddharth Roy 9,Information Technology,6,98.2,2.3,8.05,75.4,92.5,3.5,0,100.0,15.7,Low Risk
+STU1266,Tanvi Kapoor 9,Electronics,5,82.6,4.6,7.85,72.6,81.1,1.7,0,96.3,14.9,Low Risk
+STU1267,Varun Chauhan 9,Data Science,6,78.0,3.5,9.01,86.1,70.0,3.8,0,87.6,16.7,Low Risk
+STU1268,Vidya Krishnan 9,Computer Science,4,84.4,0.0,8.31,75.4,77.8,4.2,0,78.6,15.5,Low Risk
+STU1269,Yash Malhotra 9,Information Technology,4,83.1,-1.6,8.16,75.6,78.6,3.7,0,100.0,15.6,Low Risk
+STU1270,Aarav Sharma 10,Electronics,6,96.8,-4.0,8.95,86.1,92.7,4.2,0,87.7,17.1,Low Risk
+STU1271,Aditi Patel 10,Data Science,6,88.6,0.1,8.08,78.7,81.5,3.7,0,94.9,15.8,Low Risk
+STU1272,Ananya Rao 10,Computer Science,6,73.8,-0.9,6.83,56.0,65.4,2.8,0,68.4,12.8,High Risk
+STU1273,Arjun Reddy 10,Information Technology,7,86.7,-1.8,8.11,72.7,75.5,4.4,0,79.9,15.4,Low Risk
+STU1274,Bhavna Nair 10,Electronics,5,86.4,0.7,8.12,80.0,81.6,5.1,0,92.7,15.9,Low Risk
+STU1275,Chirag Gupta 10,Data Science,5,81.0,0.9,6.96,64.3,69.1,3.6,0,74.3,13.7,Moderate Risk
+STU1276,Deepika Iyer 10,Computer Science,6,89.9,1.6,9.24,88.2,92.0,3.1,0,89.2,17.8,Low Risk
+STU1277,Devansh Joshi 10,Information Technology,5,88.9,3.6,8.5,78.8,91.8,4.9,0,86.5,15.6,Low Risk
+STU1278,Divya Menon 10,Electronics,6,69.4,-3.8,7.04,55.0,61.6,1.9,1,58.9,12.1,High Risk
+STU1279,Gaurav Verma 10,Data Science,6,56.9,-0.9,6.0,41.2,38.0,2.4,2,53.1,8.4,High Risk
+STU1280,Ishaan Pillai 10,Computer Science,6,86.2,-0.8,8.85,81.7,82.4,2.4,0,93.8,16.6,Low Risk
+STU1281,Kavya Deshmukh 10,Information Technology,4,57.3,-2.3,4.69,35.0,45.0,0.8,2,53.5,7.7,High Risk
+STU1282,Kiran Kulkarni 10,Electronics,4,86.0,0.4,8.66,76.8,88.2,3.3,0,84.5,15.5,Low Risk
+STU1283,Manish Pandey 10,Data Science,3,92.0,3.0,7.87,72.6,90.5,3.5,0,82.4,15.2,Low Risk
+STU1284,Meera Sen 10,Computer Science,5,91.2,2.1,8.47,75.8,87.6,5.0,0,78.5,16.1,Low Risk
+STU1285,Neha Nambiar 10,Information Technology,3,62.9,0.5,5.33,35.0,44.1,1.4,1,51.3,8.1,High Risk
+STU1286,Nikhil Bhat 10,Electronics,5,94.9,3.6,7.33,71.5,92.9,4.9,0,100.0,16.2,Low Risk
+STU1287,Pooja Hegde 10,Data Science,5,91.2,5.0,9.39,91.7,85.6,5.4,0,78.5,17.7,Low Risk
+STU1288,Pranav Varma 10,Computer Science,4,92.0,4.0,7.27,66.3,90.0,2.3,0,86.1,14.3,Low Risk
+STU1289,Priya Das 10,Information Technology,5,92.2,4.9,8.73,85.1,95.8,3.3,0,76.5,17.2,Low Risk
+STU1290,Rahul Saxena 10,Electronics,3,99.3,-1.8,8.25,72.0,97.9,4.2,0,76.8,15.7,Low Risk
+STU1291,Riya Sen 10,Data Science,3,91.4,3.3,7.97,78.8,85.9,4.1,0,97.4,15.9,Low Risk
+STU1292,Rohan Mehta 10,Computer Science,6,91.6,-2.9,8.57,75.9,99.7,2.7,0,82.5,16.5,Low Risk
+STU1293,Sanjay Kumar 10,Information Technology,4,92.2,0.1,8.36,79.2,86.1,3.6,0,84.4,16.1,Low Risk
+STU1294,Sneha Rao 10,Electronics,3,90.5,0.8,7.72,72.0,89.6,4.2,0,82.3,15.4,Low Risk
+STU1295,Siddharth Roy 10,Data Science,5,90.6,2.3,7.62,73.1,87.5,4.6,0,84.7,15.2,Low Risk
